@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "project_name": "Random Quote Generator",
+      "description":"",
+      "technologies":["HTML", "CSS", "Javascript" ],
+      "live_link": "https://parkereakin.github.io/Random_Quote_Generator/",
+      "github_link": "https://github.com/Parkereakin/Random_Quote_Generator/",
+      "image_urls":["/public/images/random_quote_generator"];
+    },
+    {
+      "project_name": "List Pagination",
+      "description":"",
+      "technologies":["HTML", "CSS", "Javascript" ],
+      "live_link": "https://parkereakin.github.io/List_Pagination_and_Filtering/",
+      "github_link": "https://github.com/Parkereakin/List_Pagination_and_Filtering/",
+      "image_urls":["/public/images/list_pagination"];
+    },
+    {
+      "project_name": "Interactive Registration Form",
+      "description":"",
+      "technologies":["HTML", "CSS", "Javascript" ],
+      "live_link": "https://parkereakin.github.io/Interactive_Registration_Form/",
+      "github_link": "https://github.com/Parkereakin/Interactive_Registration_Form/",
+      "image_urls":["/public/images/interactive_registration_form"];
+    },
+    {
+      "project_name": "Object Oriented Programing - Guessing Game",
+      "description":"",
+      "technologies":["HTML", "CSS", "Javascript" ],
+      "live_link": "https://parkereakin.github.io/OOP_Game/",
+      "github_link": "https://github.com/Parkereakin/OOP_Game/",
+      "image_urls":["/public/images/oop_game"];
+    },
+    {
+      "project_name": "Public API - Employee Directory",
+      "description":"",
+      "technologies":["HTML", "CSS", "Javascript" ],
+      "live_link": "https://parkereakin.github.io/Public_API_Request/",
+      "github_link": "https://github.com/Parkereakin/Public_API_Request",
+      "image_urls":["/public/images/public_api_request"];
+    },
+  ]
+}
