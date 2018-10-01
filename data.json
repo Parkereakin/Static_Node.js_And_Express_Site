@@ -3,7 +3,7 @@
     {
       "id": 0,
       "project_name": "Random Quote Generator",
-      "description": "",
+      "description": "Each time the button is pressed, a random number is generated, and used to choose a random quote from an array of quotes. Additionally, 6 random numbers are generated to create two random RGB colors which are used to build the gradient used as a background color.",
       "technologies": [
         "HTML",
         "CSS",
@@ -19,7 +19,7 @@
     {
       "id": 1,
       "project_name": "List Pagination",
-      "description": "",
+      "description": "This project counts the number of employees (list items) and divides that by 10 to get the number of pagination links needed. The proper number of pagination links are then dynamically added using Javascript, and all employees are hidden with the exception of the 10 employees that should be showing on each pagination page.",
       "technologies": [
         "HTML",
         "CSS",
@@ -36,7 +36,7 @@
     {
       "id": 2,
       "project_name": "Interactive Registration Form",
-      "description": "",
+      "description": "An interactive form with a large focus on the user's experience, including error validation, and showing / hiding content based on certain selections the user chooses.",
       "technologies": [
         "HTML", "CSS", "Javascript"
       ],
@@ -51,7 +51,7 @@
     {
       "id": 3,
       "project_name": "Object Oriented Programing - Guessing Game",
-      "description": "",
+      "description": "A guessing game, similar to hangman, that uses object oriented Javascript classes to start or restart games, generate a random phrase from an array of phrases, add the phrase to the page and create the games functionality. Keyboard keys are also added to improve the user experience. Additionally, 6 random numbers are generated to create two random RGB colors which are used to build the gradient used as a background color. The middle color created by the gradient is then used to create an exact opposite RGB value for use on the button's background color.",
       "technologies": [
         "HTML",
         "CSS",
@@ -68,7 +68,7 @@
     {
       "id": 4,
       "project_name": "Public API - Employee Directory",
-      "description": "",
+      "description": "In this project, I used fetch API to get random person data from a random person generator's public API. Using Javascript, I dynamically append the 12 randomly generated users to the page. When any of the dynamically added people are clicked on, a modal is opened showing more details about the person. Once the modal is open, you can click prev or next to cycle through each person. Keyboard arrow keys and esc key functionality was added.",
       "technologies": [
         "HTML",
         "CSS",
