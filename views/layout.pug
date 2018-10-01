@@ -14,30 +14,27 @@ html(class="no-js" lang="en" dir="ltr")
         block sidebar
           br
           .cell.shrink
-            img.thumbnail(src='https://placehold.it/550x350')
+            img.logo(src='/static/images/logo.png')
+            img.thumbnail(src='/static/images/Profile_Picture.jpg')
           .cell.auto
 
-            //- Add your name here.
-            h5 Name
+            h5 Parker EAkin
 
-            //- Add text here to describe who you are, what you do, and why you are so aweome.
             p.text-light
-              | Descritption
+              | Front End Developer
 
-            //- Add about page route to the href below. 
-            a(href='') Learn More →
+            a(href='/about') Learn More →
 
     .off-canvas-content(data-off-canvas-content='')
       .title-bar.hide-for-large
         .title-bar-left
           button.menu-icon(type='button', data-toggle='my-info')
 
-          //- Add your name here.  This is for the mobile screen sized version.
-          span.title-bar-title Name
+          span.title-bar-title Parker Eakin
       block content
-        
 
-      
+
+
   script(src='/static/js/vendor/jquery.js')
   script(src='/static/js/vendor/what-input.js')
   script(src='/static/js/vendor/foundation.js')
